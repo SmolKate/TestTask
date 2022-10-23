@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+#fl-btn {
+  float:left;
+  margin-right:5px;
+  
+}
+
+#fl-link {
+  float:left;
+  margin-right:5px;
+}
+
+#auth-form {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mb-3 {
+  width:400px;
+}
+
+.head {
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color:  rgba(212, 68, 49, 0.747);
+  height: 100px;
+}
+
+#ex-btn {
+  float:right;
+  margin-right:10px;
+  margin-top: 10px;
+}
+
+.err {
+  color: rgb(172, 32, 32);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+#fl-btn1 {
+  display: block;
+  float: left;
+  margin-right:5px;
+  
+}
+
+#fl-btn2 {
+  float:right;
+  display: block;
+  margin-right:5px;
+  width: 100px;
+}
+
+.list {
+  list-style-type: none;
+  margin: 15px;
+  color: rgb(172, 32, 32);
+  width: 100px;
+  text-align: center;
+}
+
+.cont {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.table {
+  table-layout: fixed;
+  width: 50%;
+  border-collapse: collapse;
+  border: 3px solid rgb(172, 32, 32);
+}
+
+.th {
+  
+  border: 3px solid rgb(172, 32, 32);
+}
+
+#user {
+  margin: 15px;
+}
+
+
